@@ -234,8 +234,3 @@ Feel free to fork this repo and suggest improvements. PRs and issues are welcome
 
 MIT License © 2025 EchoAssist AI
 
-```
-
----
-
-Let me know if you want this converted to a `README.md` file or want a second version targeted at product managers or clients.
