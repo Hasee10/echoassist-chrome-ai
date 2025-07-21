@@ -1,8 +1,3 @@
-Here's an enhanced and **project-specific README.md** for your **EchoAssist Phase 1** Chrome Extension project, combining technical setup details with business context and deeper configuration guidance:
-
----
-
-```markdown
 # 🧠 EchoAssist - Phase 1 | Chrome AI Extension
 
 **EchoAssist** is an AI-powered Chrome extension built to assist **Customer Service Representatives (CSRs)** in real-time during customer calls. This tool is designed for enterprise-grade environments using platforms like Genesys Cloud, Five9, NICE inContact, or Zoom Contact Center. Phase 1 focuses on summarization, burnout detection, and smart scripting—delivered as a lightweight, non-intrusive UI.
@@ -244,4 +239,3 @@ MIT License © 2025 EchoAssist AI
 ---
 
 Let me know if you want this converted to a `README.md` file or want a second version targeted at product managers or clients.
-```
