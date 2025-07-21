@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "EchoAssist",
+  "version": "1.0",
+  "description": "Real-time AI assistant for CSRs",
+  "action": {
+    "default_popup": "popup/index.html"
+  },
+  "background": {
+    "service_worker": "background/index.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content/index.js"]
+    }
+  ],
+  "permissions": [
+    "storage",
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+} 

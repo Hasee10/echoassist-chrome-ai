@@ -1,0 +1,1 @@
+console.log("EchoAssist background script loaded successfully."); 

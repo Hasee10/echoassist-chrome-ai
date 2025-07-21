@@ -1,0 +1,1 @@
+console.log("EchoAssist content script has been injected and is running."); 
